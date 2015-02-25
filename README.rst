@@ -1,4 +1,21 @@
 ===================
+Archive Facebook Group
+===================
+Go to Graph API Explorer: https://developers.facebook.com/tools/explorer/145634995501895/
+Click Get Access Token, check the "user_groups" checkbox.
+Click Get Access Token and OK. Copy the Access Token and paste in the appropriate place in do.py
+Copy and paste the group id and place in do.py
+run
+```do.py```
+
+Now you can run
+```./heb.sh group_dump.json```
+
+Enjoy.
+
+
+Original description:
+===================
 Facebook Python SDK
 ===================
 
