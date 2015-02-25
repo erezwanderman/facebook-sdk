@@ -5,8 +5,7 @@ import requests
 access_token = "YOUR_ACCESS_TOKEN"
 group_id = "YOUR_GROUP_ID"
 
-graph = GraphAPI(access_token)
-#graph = facebook.GraphAPI("**********FILL ME*****************")
+graph = facebook.GraphAPI(access_token)
 
 
 # https://facepy.readthedocs.org/en/latest/usage/graph-api.html
